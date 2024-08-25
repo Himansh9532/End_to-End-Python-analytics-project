@@ -1,0 +1,8 @@
+matplotlib
+seaborn 
+pandas 
+numpy
+emoji
+datetime
+Counter
+URLExtract
